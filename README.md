@@ -55,5 +55,3 @@ Contact / More Info
 - Facebook: Chiong  
 - GitHub: CH10N2005
   
-- Facebook: Chiong  
-- GitHub: CH10N2005
