@@ -1,32 +1,59 @@
-# Code-master
+CODE MASTER
 
-## Description
-This is a Python Quiz Game.  
-It includes only the Python code files:
+Description
+This repository contains a Python Quiz Game.  
+It includes only the core Python code files:
 
-- `Main.py` – main program to run the game  
-- `quiz_game.py` – contains the game logic  
-- `leaderboard.py` – tracks and shows scores  
-- `questions.py` – contains the quiz questions  
+- `Main.py` – main program that runs the game  
+- `quiz_game.py` – handles the game logic  
+- `leaderboard.py` – manages and displays scores  
+- `questions.py` – stores and loads the quiz questions  
 
-> **Note:** This version does NOT include music, background sounds, or background images.  
-> Also, the game will NOT work if you do not have the required Python modules like **pygame**, **Pillow**, or others.
+Note:  
+- This version does not include background music, sound effects, or background images.  
+- The game will not work if required modules like `pygame`, `Pillow`, and others are not installed.  
+- You can also view the older version of this project in my other repository named **"quiz-game"**.
+- change the file name of the codes for bg music and bg screen.
 
 How to Run
-1. Make sure you have **Python 3.x** installed.
-2. Download the files from this repo.
-3. Open a terminal or command prompt.
-4. Go to the folder containing the Python files.
-5. Run the game with:
+
+1. Install Python 3.x.  
+2. Download or clone this repository.  
+3. Open your terminal or command prompt.  
+4. Navigate to the folder containing the `.py` files.  
+5. Run the game using:
 
 Features
-- Multiple-choice quiz game  
-- Tracks scores and shows leaderboard  
-- Easy to edit and add new questions  
 
+- Multiple-choice and True or false quiz  (30 - items)
+- Score tracking  
+- Leaderboard system  
+- Easy to modify or add new questions  
+
+Group Members and Contributions
+
+Chiong  
+- Project Integrator (Leader)  
+- UI Design  
+- Retry and Exit Functions
+
+pauline buenavista 
+-  Skip Button  
+
+Cath Vargas
+- Leaderboards System
+
+Raven 
+- Sound Effects
+
+Jude  
+- Questions System  
+- Lives System
+  
 Contact / More Info
-If you want to ask questions or learn more, you can contact me:
-
-- **Email:** Chiongvindiesel269  
-- **Facebook:** Chiong  
-- **GitHub:** [CH10N2005](https://github.com/CH10N2005)
+- Email: Chiongvindiesel269  
+- Facebook: Chiong  
+- GitHub: CH10N2005
+  
+- Facebook: Chiong  
+- GitHub: CH10N2005
